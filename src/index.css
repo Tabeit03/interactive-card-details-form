@@ -15,7 +15,7 @@
   width: 320px;
   border-radius: 10px;
   position: absolute;
-  top: 220px;
+  top: 150px;
   z-index: 20;
 }
 
@@ -29,6 +29,7 @@
   height: 200px;
   width: 320px;
   border-radius: 10px;
+  top: 10px;
 }
 
 .Back-card p {
@@ -36,7 +37,7 @@
 }
 
 form {
-  margin-top: 300px;
+  margin-top: 270px;
 }
 .btn {
   background-color: hsl(278, 68%, 11%);
@@ -70,7 +71,7 @@ form input {
   }
 
   form {
-    margin-top: 500px;
+    margin-top: 530px;
   }
 
   .Back-card p {
